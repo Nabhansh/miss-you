@@ -34,6 +34,6 @@ npm run dev
 Then open [http://localhost:3000](http://localhost:3000) in your browser to explore the site.
 ## ⭐ Support
 
-If you found this project lovely, please consider giving it a ⭐ on [GitHub](https://github.com/Anuj579)  
+If you found this project lovely, please consider giving it a ⭐ on [GitHub](https://github.com/Nabhansh)  
 Thank you for being here! 🫶  
-Made with emotions by **Anuj** – _@anujbuilds_
+Made with emotions by **Nabhansh**
